@@ -2,8 +2,8 @@
 
 /*
 Program Title: Sum of First 50 Natural Numbers
-Name: Zainab Fatima
-Registration Number: L1S26BBSCS0047
+Name: ZAINAB FATIMA
+Registration Number: L1S26BSCS0047
 Assignment: 01
 */
 
