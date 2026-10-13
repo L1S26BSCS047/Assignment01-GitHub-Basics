@@ -1,30 +1,10 @@
+# Assignment 01 - GitHub Basics
 
+## Program Description
+This C++ program calculates the sum of the first 50 natural numbers using a loop and verifies the result using the formula n(n+1)/2.
 
-/*
-Program Title: Sum of First 50 Natural Numbers
-Name: ZAINAB FATIMA
-Registration Number: L1S26BSCS0047
-Assignment: 01
-*/
-
-#include <iostream>
-using namespace std;
-
-int main() {
-    int sum = 0;
-
-    for (int i = 1; i <= 50; i++) {
-        sum += i;
-    }
-
-    cout << "Sum of first 50 natural numbers (loop): "
-         << sum << endl;
-         
-    int formulaSum = 50 * (50 + 1) / 2;
-
-    cout << "Sum using formula n(n+1)/2: "
-         << formulaSum << endl;
-
-
-    return 0;
-}
+## Output
+```text
+Sum of first 50 natural numbers (loop): 1275
+Sum using formula n(n+1)/2: 1275
+```
