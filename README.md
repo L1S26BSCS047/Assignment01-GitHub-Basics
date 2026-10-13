@@ -1,4 +1,12 @@
 
+
+/*
+Program Title: Sum of First 50 Natural Numbers
+Name: Zainab Fatima
+Registration Number: L1S26BBSCS0047
+Assignment: 01
+*/
+
 #include <iostream>
 using namespace std;
 
